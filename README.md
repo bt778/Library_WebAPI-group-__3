@@ -17,6 +17,7 @@ A third-year group project for the course **Event-Driven Programming & Web Backe
 
 ###  Authentication & Authorization
 - **User Registration & Login**
+- Login with Username=BERHANE     Password=BERHANE123
 - JWT token issuance and validation
 - All APIs protected for authenticated users
 
